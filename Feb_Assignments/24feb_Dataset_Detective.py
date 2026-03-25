@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_csv("data.csv")
+print("\n--- Top 5 Rows ---")
+print(df.head())
+numeric_cols = df.select_dtypes(include='number')
+max_column = numeric_cols.max().idxmax()
+max_value = numeric_cols.max().max()
+print("\nColumn with highest value:", max_column)
+print("Highest value:", max_value)
+print("\n--- Missing Values ---")
+print(df.isnull().sum())
