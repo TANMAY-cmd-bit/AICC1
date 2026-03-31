@@ -1,0 +1,20 @@
+1. Happy – Joyful
+✅ Very similar meaning
+Both express positive emotions
+Used in similar contexts
+2. Car – Vehicle
+✅ Strong similarity
+Car is a type of vehicle
+Relationship: generalization (hypernym)
+3. Teacher – Student
+⚖️ Related but opposite roles
+Both belong to education domain
+Relationship: contextual similarity
+4. Fast – Quick
+✅ Almost identical meaning
+Can be used interchangeably
+Example: fast runner / quick runner
+5. Book – Library
+⚖️ Related but not same
+Library contains books
+Relationship: association

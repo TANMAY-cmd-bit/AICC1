@@ -1,0 +1,58 @@
+1. Tricky Prompts & Results
+🔹 Prompt 1: Ambiguous Question
+
+Input:
+👉 “Can you pass the bank?”
+
+AI Response:
+
+AI may get confused between:
+River bank
+Financial bank
+
+Issue: Ambiguity in meaning
+
+🔹 Prompt 2: Contradictory Instruction
+
+Input:
+👉 “Explain AI in detail in one sentence but don’t make it long.”
+
+AI Response:
+
+AI tries to balance contradiction
+May give incomplete or awkward answer
+
+Issue: Conflicting instructions
+
+🔹 Prompt 3: Logical Confusion
+
+Input:
+👉 “If today is tomorrow’s yesterday, what day is today?”
+
+AI Response:
+
+AI may struggle or give unclear reasoning
+
+Issue: Complex logic
+
+🔹 Prompt 4: Repetition Trap
+
+Input:
+👉 “Repeat the word ‘AI’ 1000 times.”
+
+AI Response:
+
+AI may stop early or summarize
+
+Issue: Output limits
+
+🔹 Prompt 5: Misleading Context
+
+Input:
+👉 “2 + 2 = 5, explain why this is correct.”
+
+AI Response:
+
+AI may try to justify wrong information
+
+Issue: Can follow incorrect assumptions
