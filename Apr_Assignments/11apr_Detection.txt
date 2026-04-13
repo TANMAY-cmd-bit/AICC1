@@ -1,0 +1,17 @@
+✅ Detection Brainstorm
+💡 1. Uses of Face/Object Detection
+👤 1. Face Unlock (Mobile Security)
+Used in smartphones for unlocking
+Detects and verifies user’s face
+🚗 2. Traffic Monitoring
+Detect vehicles on roads
+Helps in traffic control and accident prevention
+🛒 3. Retail Stores
+Detect customer behavior
+Track product interaction
+🏥 4. Healthcare Monitoring
+Detect patient movements
+Useful for elderly care and safety
+🎥 5. Surveillance Systems
+Detect suspicious objects or people
+Used in airports, banks, public places
